@@ -19,4 +19,5 @@ export * from './Componentes/AbGrupoOpcoes'
 export * from './Componentes/AbTag'
 export * from './Componentes/AbCard'
 export * from './Componentes/AbCampoTexto'
+export * from './Componentes/AbInputQuantidade'
 
